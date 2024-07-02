@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-02T18:03:45.645Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="lL5wdLSrjRlgynJWXcp3" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-02T18:17:10.100Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="vvK9MaY240VfWSPhOsvS" version="24.6.4" type="github">
   <diagram name="Page-1" id="aiw4RpgnwSIxkpJ9-CH4">
-    <mxGraphModel dx="1500" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#fbfbfb" math="0" shadow="0">
+    <mxGraphModel dx="3000" dy="1491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,8 +28,8 @@
         <mxCell id="JvLftwLZeISLQJelkcIT-8" value="https://idaportalaz.worldbank.org/" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontStyle=1;horizontal=1;" vertex="1" parent="JvLftwLZeISLQJelkcIT-6">
           <mxGeometry y="43" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JvLftwLZeISLQJelkcIT-9" value="Angular 12" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontStyle=1;horizontal=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="30" width="80" height="30" as="geometry" />
+        <mxCell id="JvLftwLZeISLQJelkcIT-9" value="Angular 12" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;fontSize=12;fontStyle=1;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry y="2.9000000000000004" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JvLftwLZeISLQJelkcIT-10" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="227.5" y="320" width="95" height="96.24525602409639" as="geometry" />
